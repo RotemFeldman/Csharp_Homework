@@ -1,4 +1,7 @@
-﻿using System.ComponentModel;
+﻿//  C#II (Dor Ben Dor)  //
+//     Rotem Feldman    //
+//////////////////////////
+using System.ComponentModel;
 
 namespace LimitedObservableList
 {
